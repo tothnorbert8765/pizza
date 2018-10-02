@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<h1>Pizza hut online webárúház</h1>
-<p>This is a paragraph.</p>
+<h1>Online Pizza webárúház!</h1>
+<p>A legjobb pizza az országban.</p>
 
 </body>
 </html>
